@@ -52,7 +52,6 @@
 - **[Implementation of music genre classification, audio-to-vec, song recommender, and music search in mxnet](https://github.com/chen0040/mxnet-audio)**
 - **[Audio Classification - Multilayer Neural Networks using TensorFlow](https://github.com/nextco/audio-classification)**
 - [**Audio Classification using LSTM**](http://github.com/sarthak268/Audio_Classification_using_LSTM)
-
 * **[Google Speech Command Dataset Classification Neural Network, CNN, RNN](https://github.com/wikke/AudioRecognition)**
 * [**Multi class audio classification using Deep Learning (MLP, CNN)**](https://github.com/vishalshar/Audio-Classification-using-CNN-MLP)
 * [**Scene Classification using Audio in the nearby Environment**](https://github.com/anujdutt9/Audio-Scene-Classification)
@@ -61,8 +60,7 @@
 * **[RAVDESS-emotions-speech-audio-only](https://github.com/ZenvilleErasmus/RAVDESS-emotions-speech-audio-only)**
 * **[A system that should classify audio in real-time](https://github.com/iver56/live-audio-ml)**
 * [**Audio Tagging Challange Kaggle**](https://github.com/tychen5/Audio_Tagging_Challenge)
-* **[Music/speech classification by using discrete fourier transform and feeding the cnn a graphical visualization of sound](music/speech classification by using discrete fourier transform and feeding the cnn a graphical visualization of sound)**
-
+* **[Music/speech classification by using discrete fourier transform and feeding the cnn a graphical visualization of sound](https://github.com/jaynilpatel/audio-classifier)**
 * **[Tensorflow implementation of music-genres-classification with InceptionResnetV2](https://github.com/Mister5ive/music-genres-classification)**
 * [**General Audio Classifier with e2e architecture Tensorflow code**](https://github.com/mauri870/GAC)
 * **[Audio context classification](https://github.com/stihl1210/dss-audio)** 
